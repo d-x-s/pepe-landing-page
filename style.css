@@ -22,6 +22,7 @@ a:hover {
     flex-direction: column;
 }
 
+/* HEADER/NAVBAR SECTION */
 .navbar {
     display: flex;
     color: #f9faf8;
@@ -36,6 +37,12 @@ a:hover {
     gap: 30px;
 }
 
+.pepe-logo {
+    height: 100px;
+    width: 100px;
+}
+
+/* HERO SECTION */
 .hero {
     display: flex;
     background-color: #1f2937;
@@ -64,7 +71,7 @@ a:hover {
 }
 
 .sign-up-button {
-    width: 100px;
+    width: 120px;
     height: 30px;
     background-color: #3882f6;
     color: #f9faf8;
@@ -78,7 +85,37 @@ a:hover {
     border-radius: 7.5px;
 }
 
-.pepe-logo {
-    height: 100px;
-    width: 100px;
+/* CARD SECTION */
+.cards {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin: 50px 0 50px 0;
+}
+
+.cards .title {
+    font-size: 36px;
+    font-weight: 1000;
+    color: #1F2937;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.card .img {
+    width: 200px;
+    height: 200px;
+    border-color: #3882f6;
+    border-style: solid;
+    border-radius: 7.5px;
+    border-width: 5px;
+}
+
+.card .caption {
+    font-size: 18px;
+    color: #77787c
 }
