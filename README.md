@@ -4,8 +4,8 @@ Testing my flexbox knowledge with a randomly themed website.
 
 ## Description
 
-Simple Web Development project to practice HTML/CSS.  
-https://d-x-s.github.io/odin-landing-page/
+Simple Web Development project to practice HTML/CSS/Flexbox.  
+https://d-x-s.github.io/pepe-landing-page/
 
 ## Acknowledgments
 
