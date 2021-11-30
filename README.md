@@ -1,4 +1,4 @@
-# Project: Recipes 
+# Project: Pepe Landing Page
 
 Testing my flexbox knowledge with a randomly themed website. 
 
